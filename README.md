@@ -4,7 +4,7 @@
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-![Kanishka's github ](https://github-readme-stats.vercel.app/api?username=KATTA-00&count_private=true&theme=dark&bg_color=000000&show_icons=true&ring_color=FF6500)
+<!-- ![Kanishka's github ](https://github-readme-stats.vercel.app/api?username=KATTA-00&count_private=true&theme=dark&bg_color=000000&show_icons=true&ring_color=FF6500) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KATTA-00&langs_count=10&count_private=true&theme=dark&bg_color=000000&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ---
@@ -24,7 +24,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" height="40" style="vertical-align:top; margin:4px"/>
 
 <br>
-<h3 align="left">GitHub Contributions:</h3>
 
 ![GitHub Snake Light](./dist/github-contribution-grid-snake#gh-light-mode-only)
 ![GitHub Snake dark](./dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
