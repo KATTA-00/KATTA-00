@@ -2,11 +2,15 @@
 
 
 ---
-### <img width='25' />My Github Stats:
+### <img width='25' />My Github:
 
 <!-- ![Kanishka's github ](https://github-readme-stats.vercel.app/api?username=KATTA-00&count_private=true&theme=dark&bg_color=000000&show_icons=true&ring_color=FF6500) -->
+
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KATTA-00&langs_count=10&count_private=true&theme=dark&bg_color=000000&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
+</div>
 ---
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Languages and Tools:
 <p align="center">
