@@ -33,5 +33,3 @@
 
 ![GitHub Snake Light](./dist/github-contribution-grid-snake#gh-light-mode-only)
 ![GitHub Snake dark](./dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-<br>
