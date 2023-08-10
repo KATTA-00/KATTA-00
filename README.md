@@ -14,7 +14,7 @@
 -->
 
 ---
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Languages and Tools:
+### Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" height="40" style="vertical-align:top; margin:4px"/>
@@ -29,5 +29,5 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" height="40" style="vertical-align:top; margin:4px"/>
 
-![GitHub Snake Light](./dist/github-contribution-grid-snake#gh-light-mode-only)
-![GitHub Snake dark](./dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<!--[GitHub Snake Light](./dist/github-contribution-grid-snake#gh-light-mode-only)
+![GitHub Snake dark](./dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)-->
