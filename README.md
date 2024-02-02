@@ -2,6 +2,7 @@
 
 
 ---
+<!--
 <div align="center">
 
 ![Kanishka's github ](https://github-readme-stats.vercel.app/api?username=KATTA-00&count_private=true&theme=dark&bg_color=000000&show_icons=true&ring_color=FF6500) 
@@ -12,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KATTA-00&langs_count=10&count_private=true&theme=dark&bg_color=000000&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 </div>
-
+-->
 ---
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" height="40" style="vertical-align:top; margin:4px"/>
